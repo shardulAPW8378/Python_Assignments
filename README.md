@@ -213,7 +213,7 @@ Usage: ProcInfoLog.py Demo
 Demo is name of Directory.
 4. Design automation script which accept directory name and mail id from user and create log file in that directory which contains information of running processes as its name, PID, Username. After creating log file send that log file to the specified mail.
 Usage: ProcInfoLog.py Demo ABCD@gmail.com
-Demo is name of Directory. marvellousinfosystem@gmail.com is the mail id.
+Demo is name of Directory. ABCD@gmail.com is the mail id.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Automation Assignment: 13
@@ -228,7 +228,7 @@ Accept Mail id from user and send the attachment of the log file.
 Mail body should contains statistics about the operation of duplicate file removal.
 Mail body should contains below things: Starting time of scanningTotal number of files scanned Total number of duplicate files found
 Consider below command line options for the gives script
-Duplicate FileRemoval.py E:/Data/Demo 50 marvellousinfosystem@gmail.com
+Duplicate FileRemoval.py E:/Data/Demo 50 ABCD@gmail.com
 DuplicateFileRemoval.py
 Name of python automation script
 E:/Data/Demo
